@@ -21,6 +21,9 @@
         ### Loader.js
             - Contains the loader component
 
+    ## screenshots folder
+        - Contains the screenshots of the application
+
 ## external libraries Used
 
     ### react-data-table-component
